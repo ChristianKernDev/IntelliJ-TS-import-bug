@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "workspaces": [
+    "a",
+    "b"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.4",
+    "vite-plugin-checker": "^0.7.2",
+    "vite-tsconfig-paths": "^5.0.1"
+  }
+}
